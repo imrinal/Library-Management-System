@@ -33,5 +33,21 @@ http://localhost/librarydbms
 - **Vinayak Mishra** 
 - **Sagun Kumar Behera**
 - **Nilanjan Ghosh**
+- **Mrinal Paul**
+
+## Project Structure
+```
+librarydbms/
+├── admin/ # Admin interface
+├── css/ # Stylesheets
+├── database/ # Contains database .sql file
+│ └── librarydb.sql
+├── dbconnect.php # MySQL connection script
+├── index.php # Landing page
+├── login.php # Login logic
+├── signup.php # User registration
+├── student_dashboard.php # Student panel
+├── view_books.php # View available books
+└── ... (other PHP and JS files)
 
 
