@@ -29,6 +29,12 @@ A full-stack Library Management System built with **HTML, CSS, JavaScript, PHP**
 7. Run the project by visiting:
 http://localhost/librarydbms
 
+## Authors
+- **Vinayak Mishra** 
+- **Sagun Kumar Behera**
+- **Mrinal Paul**
+
+  
 ## Project Structure
 ```
 librarydbms/
@@ -45,9 +51,5 @@ librarydbms/
 └── ... (other PHP and JS files)
 
 ---
-## Authors
-- **Vinayak Mishra** 
-- **Sagun Kumar Behera**
-- **Mrinal Paul**
 
 
