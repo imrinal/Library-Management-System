@@ -17,7 +17,7 @@ A full-stack Library Management System built with **HTML, CSS, JavaScript, PHP**
 ---
 
 ## Project Structure
-
+```
 librarydbms/
 ├── admin/ # Admin interface
 ├── css/ # Stylesheets
