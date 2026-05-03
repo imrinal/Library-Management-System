@@ -50,6 +50,4 @@ librarydbms/
 ├── view_books.php # View available books
 └── ... (other PHP and JS files)
 
----
-
 
