@@ -31,6 +31,7 @@ librarydbms/
 ├── view_books.php # View available books
 └── ... (other PHP and JS files)
 
+---
 
 ##  How to Set It Up (Locally Using XAMPP)
 
