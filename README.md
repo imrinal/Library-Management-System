@@ -15,6 +15,19 @@ A full-stack Library Management System built with **HTML, CSS, JavaScript, PHP**
 - Book recommendations
 
 ---
+##  How to Set It Up (Locally Using XAMPP)
+
+1. Download and install [XAMPP](https://www.apachefriends.org/index.html)
+2. Copy the `librarydbms` folder to: C:/xampp/htdocs/
+3. Start **Apache** and **MySQL** from XAMPP Control Panel
+4. Open a browser and go to:  http://localhost/phpmyadmin
+5. Create a new database: librarydb
+6. Import the SQL file:
+- Go to the **Import** tab
+- Choose: `librarydbms/database/librarydb.sql`
+- Click **Go**
+7. Run the project by visiting:
+http://localhost/librarydbms
 
 ## Project Structure
 ```
@@ -32,21 +45,6 @@ librarydbms/
 └── ... (other PHP and JS files)
 
 ---
-
-##  How to Set It Up (Locally Using XAMPP)
-
-1. Download and install [XAMPP](https://www.apachefriends.org/index.html)
-2. Copy the `librarydbms` folder to: C:/xampp/htdocs/
-3. Start **Apache** and **MySQL** from XAMPP Control Panel
-4. Open a browser and go to:  http://localhost/phpmyadmin
-5. Create a new database: librarydb
-6. Import the SQL file:
-- Go to the **Import** tab
-- Choose: `librarydbms/database/librarydb.sql`
-- Click **Go**
-7. Run the project by visiting:
-http://localhost/librarydbms
-
 ## Authors
 - **Vinayak Mishra** 
 - **Sagun Kumar Behera**
